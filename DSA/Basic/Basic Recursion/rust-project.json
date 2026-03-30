@@ -1,0 +1,54 @@
+{
+  "crates": [
+    {
+      "root_module": "1sum_1stn.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "2factorial.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "3sum_arr.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "4reverse_str.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "5palindrome.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "6is_prime.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "7reverse_arr.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "8is_sorted.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "9sum_digits.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "10fib.rs",
+      "edition": "2021",
+      "deps": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "crates": [
+    {
+      "root_module": "1highest_frequency.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "2nd_highest_freq.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "3sum_highest_lowest.rs",
+      "edition": "2021",
+      "deps": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "crates": [
+    {
+      "root_module": "1sum.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "2count_odd.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "3sorted_array.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "4reverse_array.rs",
+      "edition": "2021",
+      "deps": []
+    }
+  ]
+}

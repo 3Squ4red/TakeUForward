@@ -1,0 +1,44 @@
+{
+  "crates": [
+    {
+      "root_module": "1reverse.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "2palindrome.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "3largest_odd.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "4longest_prefix.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "5isomorphic_str.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "6valid_anagram.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "7freq_sort.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "8rotate_str.rs",
+      "edition": "2021",
+      "deps": []
+    }
+  ]
+}

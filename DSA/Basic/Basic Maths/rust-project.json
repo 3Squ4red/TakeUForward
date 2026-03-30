@@ -1,0 +1,69 @@
+{
+  "crates": [
+    {
+      "root_module": "1count_digits.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "2count_odd_digits.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "3reverse_num.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "4palindrome_number.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "5largest_digit.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "6factorial.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "7armstrong.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "8perfect.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "9prime.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "10prime_upton.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "11gcd.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "12lcm.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "13divisors.rs",
+      "edition": "2021",
+      "deps": []
+    }
+  ]
+}

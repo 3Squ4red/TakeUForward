@@ -1,0 +1,114 @@
+{
+  "crates": [
+    {
+      "root_module": "Pattern1.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern2.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern3.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern4.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern5.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern6.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern7.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern8.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern9.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern10.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern11.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern12.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern13.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern14.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern15.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern16.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern17.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern18.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern19.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern20.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern21.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "Pattern22.rs",
+      "edition": "2021",
+      "deps": []
+    }
+  ]
+}
