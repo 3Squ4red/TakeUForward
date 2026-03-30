@@ -1,0 +1,29 @@
+{
+  "crates": [
+    {
+      "root_module": "1selection_sort.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "2bubble_sort.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "3insertion_sort.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "4merge_sort.rs",
+      "edition": "2021",
+      "deps": []
+    },
+    {
+      "root_module": "5quick_sort.rs",
+      "edition": "2021",
+      "deps": []
+    }
+  ]
+}
