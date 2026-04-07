@@ -3,9 +3,9 @@ fn main() {
 }
 
 fn insertion_sort(a: &[i32]) -> Vec<i32> {
-    let n = a.len();
-    if n < 2 {return a.to_vec();}
     let mut arr = a.to_vec();
+    let n = arr.len();
+    if n < 2 {return arr;}
 
     for i in 1..n {
         for j in (1..=i).rev() {

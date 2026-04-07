@@ -3,9 +3,9 @@ fn main() {
 }
 
 fn selection_sort(a: &[i32]) -> Vec<i32> {
-    let n = a.len();
-    if n < 2 {return a.to_vec();}
     let mut arr = a.to_vec();
+    let n = arr.len();
+    if n < 2 {return arr;}
 
     for i in 0..n-1 {
         // let (min_o, min) = arr[i..n].iter().enumerate().min_by_key(|&(_, val)| val).unwrap();
