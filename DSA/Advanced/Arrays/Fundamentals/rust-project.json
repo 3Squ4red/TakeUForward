@@ -1,0 +1,34 @@
+{
+    "crates": [
+        {
+            "root_module": "1linear_search.rs",
+            "edition": "2021",
+            "deps": []
+        },
+        {
+            "root_module": "2largest_element.rs",
+            "edition": "2021",
+            "deps": []
+        },
+        {
+            "root_module": "3second_largest_element.rs",
+            "edition": "2021",
+            "deps": []
+        },
+        {
+            "root_module": "4maximum_consecutive_ones.rs",
+            "edition": "2021",
+            "deps": []
+        },
+        {
+            "root_module": "5left_rotate_array_by_one.rs",
+            "edition": "2021",
+            "deps": []
+        },
+        {
+            "root_module": "6left_rotate_array_by_k_places.rs",
+            "edition": "2021",
+            "deps": []
+        }
+    ]
+}
