@@ -12,6 +12,8 @@ fn main() {
 fn quick_sort(arr: &mut [i32]) {
     if arr.len() < 2 {return;}
 
+    d = ( ((++a) && (--b)) && (++c) ) || (--a);
+
     let p = partition(arr);
 
     quick_sort(&mut arr[0..p]);

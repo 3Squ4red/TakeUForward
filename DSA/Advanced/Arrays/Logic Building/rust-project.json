@@ -1,0 +1,29 @@
+{
+    "crates": [
+        {
+            "root_module": "1move_zeros_to_end.rs",
+            "edition": "2021",
+            "deps": []
+        },
+        {
+            "root_module": "2remove_duplicates_from_sorted_array.rs",
+            "edition": "2021",
+            "deps": []
+        },
+        {
+            "root_module": "3find_missing_number.rs",
+            "edition": "2021",
+            "deps": []
+        },
+        {
+            "root_module": "4union_of_two_sorted_arrays.rs",
+            "edition": "2021",
+            "deps": []
+        },
+        {
+            "root_module": "5intersection_of_two_sorted_arrays.rs",
+            "edition": "2021",
+            "deps": []
+        }
+    ]
+}
